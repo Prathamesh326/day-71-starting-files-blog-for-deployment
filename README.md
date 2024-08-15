@@ -71,7 +71,18 @@ The project is deployed on [Render](https://pratzzsblog.onrender.com/). To deplo
 
 ## Screenshots
 
-Include some screenshots of the application (e.g., home page, post creation, comments).
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Post Creation 
+![Post Creation](screenshots/post.png)
+
+### Contact Page
+![Contact Page](screenshots/contact.png)
+
+### about Page
+![about Page](screenshots/about.png)
+
 
 ## Contributing
 
