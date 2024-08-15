@@ -94,11 +94,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any queries or support, please contact [Prathamesh](mailto:your-email@example.com).
-
----
-
-This README file is intended to provide a comprehensive overview of the project. For more details, please refer to the code and comments within the repository.
-```
-
-This README file includes all the necessary sections, such as features, installation instructions, deployment steps, and more. You can customize the contact details and add any screenshots to enhance it further.
+For any queries or support, please contact [Prathamesh](pratzz326@gmail.com).
